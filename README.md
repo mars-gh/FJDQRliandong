@@ -1,7 +1,7 @@
 # FJDQRliandong
-·Â¾©¶«½ğÈÚÖ÷Ò³Áª¶¯Ğ§¹û
+ä»¿äº¬ä¸œé‡‘èä¸»é¡µè”åŠ¨æ•ˆæœ
 
-ÏîÄ¿ĞèÒªÊµÏÖÀàËÆ¾©¶«½ğÈÚÊ×Ò³Áª¶¯»¬¶¯µÄĞ§¹û£¬Í¼ÈçÏÂ
-![image](picture https://github.com/mars4220/FJDQRliandong/blob/master/pic/6408.gif)
-ÏîÄ¿ÊµÏÖÀàËÆ¾©¶«½ğÈÚÊ×Ò³Áª¶¯»¬¶¯µÄĞ§¹û£¬Á½¸öViewPagerÍ¼ÈçÏÂ
-![image](picture https://github.com/mars4220/FJDQRliandong/blob/master/pic/6409.gif)
+é¡¹ç›®éœ€è¦å®ç°ç±»ä¼¼äº¬ä¸œé‡‘èé¦–é¡µè”åŠ¨æ»‘åŠ¨çš„æ•ˆæœï¼Œå›¾å¦‚ä¸‹
+![image](https://github.com/mars4220/FJDQRliandong/blob/master/pic/6408.gif)
+é¡¹ç›®å®ç°ç±»ä¼¼äº¬ä¸œé‡‘èé¦–é¡µè”åŠ¨æ»‘åŠ¨çš„æ•ˆæœï¼Œä¸¤ä¸ªViewPagerå›¾å¦‚ä¸‹
+![image](https://github.com/mars4220/FJDQRliandong/blob/master/pic/6409.gif)
